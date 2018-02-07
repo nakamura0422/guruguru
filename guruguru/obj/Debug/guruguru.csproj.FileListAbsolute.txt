@@ -1,0 +1,7 @@
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\bin\Debug\guruguru.exe.config
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\bin\Debug\guruguru.exe
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\bin\Debug\guruguru.pdb
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\obj\Debug\guruguru.csprojResolveAssemblyReference.cache
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\obj\Debug\guruguru.csproj.CoreCompileInputs.cache
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\obj\Debug\guruguru.exe
+C:\Users\NG.nakamura\Desktop\guruguru\guruguru\obj\Debug\guruguru.pdb
